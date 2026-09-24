@@ -1,0 +1,50 @@
+[
+  {
+    "id": "matricula-2026",
+    "titulo": "Matrícula abierta para el curso 2026-2027",
+    "resumen": "Ya puedes solicitar plaza en nuestros ciclos de Grado Medio y FP Básica. Atención personalizada para familias y alumnado nuevo.",
+    "contenido": "El periodo de admisión y matriculación para el curso 2026-2027 ya está abierto.\n\nOfrecemos cinco ciclos formativos: dos de Grado Medio (Gestión Administrativa y Cuidados Auxiliares de Enfermería) y tres de FP Básica (Servicios Administrativos, Informática de Oficina y Alojamiento y Lavandería).\n\nPara más información, contacta con Secretaría o visita la sección de Estudios impartidos.",
+    "categoria": "Admisión",
+    "fecha": "2026-09-15"
+  },
+  {
+    "id": "convenio-hospital",
+    "titulo": "Nuevo convenio de prácticas con el Hospital Comarcal",
+    "resumen": "El alumnado de Cuidados Auxiliares de Enfermería realizará sus prácticas en el Hospital Comarcal gracias al nuevo convenio de colaboración.",
+    "contenido": "Nuestros alumnos de Cuidados Auxiliares de Enfermería realizarán prácticas en el Hospital Comarcal gracias al nuevo convenio de colaboración.\n\nEste acuerdo refuerza la Formación en Centros de Trabajo (FCT), una de las señas de identidad del centro, con más de 20 empresas colaboradoras en la comarca.",
+    "categoria": "FCT",
+    "fecha": "2026-09-01"
+  },
+  {
+    "id": "puertas-abiertas",
+    "titulo": "Jornada de puertas abiertas",
+    "resumen": "Ven a conocernos: visita nuestras aulas, habla con el profesorado y descubre por qué más de 200 familias confían en nosotros cada año.",
+    "contenido": "Ven a conocernos: visita nuestras aulas, habla con el profesorado y descubre por qué más de 200 familias confían en nosotros cada año.\n\nDurante la jornada se presentarán todos los ciclos formativos, los proyectos de aula-empresa y las salidas profesionales de cada titulación.",
+    "categoria": "Centro",
+    "fecha": "2026-06-10"
+  },
+  {
+    "id": "fp-basica-alojamiento",
+    "titulo": "Nueva FP Básica: Alojamiento y Lavandería",
+    "resumen": "Este curso inauguramos un nuevo ciclo de FP Básica orientado al sector turístico y de hostelería, con prácticas en hoteles de la comarca.",
+    "contenido": "Este curso inauguramos un nuevo ciclo de FP Básica orientado al sector turístico y de hostelería, con prácticas en hoteles de la comarca.\n\nLa FP Básica de Alojamiento y Lavandería forma en la preparación de habitaciones, el servicio de lavandería y la atención al cliente, con salida directa al sector turístico.",
+    "categoria": "Estudios",
+    "fecha": "2026-05-20"
+  },
+  {
+    "id": "becas-2026",
+    "titulo": "Becas y ayudas disponibles para el próximo curso",
+    "resumen": "Información sobre becas del Ministerio de Educación y ayudas de la Comunidad Autónoma para el alumnado de FP.",
+    "contenido": "Ya están disponibles las convocatorias de becas y ayudas para el próximo curso.\n\nNuestra enseñanza es oficial y gratuita al ser un centro concertado, y además el alumnado puede optar a becas del Ministerio de Educación y ayudas complementarias de la Región de Murcia.\n\nSecretaría te ayudará con toda la documentación necesaria.",
+    "categoria": "Secretaría",
+    "fecha": "2026-04-28"
+  },
+  {
+    "id": "fin-curso-2526",
+    "titulo": "Acto de fin de curso y graduación 2025-2026",
+    "resumen": "Celebramos la graduación del alumnado de 2º de Grado Medio y FP Básica con familias, profesorado y empresas colaboradoras.",
+    "contenido": "Celebramos la graduación del alumnado de 2º de Grado Medio y FP Básica con familias, profesorado y empresas colaboradoras.\n\nUn curso más, nuestros titulados salen al mundo laboral con formación práctica y experiencia real en empresas de la comarca.",
+    "categoria": "Centro",
+    "fecha": "2026-06-20"
+  }
+]
