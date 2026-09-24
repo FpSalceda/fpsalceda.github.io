@@ -1,77 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
-  <g fill="none" stroke="#1b2f45" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="560" viewBox="0 0 560 560">
+  <g fill="none" stroke="#1b2f45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 
-    <!-- Lápiz -->
-    <g transform="translate(60 60) rotate(-24)">
-      <rect x="-34" y="-6" width="52" height="12" rx="2"/>
-      <path d="M18 -6 L34 0 L18 6 Z"/>
-      <path d="M-34 -6 h-8 v12 h8"/>
-      <line x1="-8" y1="-6" x2="-8" y2="6"/>
-      <line x1="22" y1="-2.5" x2="30" y2="0" stroke-width="2"/>
+    <!-- Lápiz afilado, línea fina -->
+    <g transform="translate(70 70) rotate(-22)">
+      <path d="M-40 -5 h44 v10 h-44 Z"/>
+      <path d="M4 -5 L26 0 L4 10 Z"/>
+      <path d="M20 -1.8 L26 0 L20 1.8 Z" fill="#1b2f45" stroke="none"/>
+      <path d="M-40 -5 q-6 0 -6 5 t6 5"/>
+      <line x1="-14" y1="-5" x2="-14" y2="5"/>
     </g>
 
-    <!-- Regla -->
-    <g transform="translate(300 96) rotate(14)">
-      <rect x="-44" y="-10" width="88" height="20" rx="3"/>
-      <line x1="-34" y1="-10" x2="-34" y2="-2"/>
-      <line x1="-22" y1="-10" x2="-22" y2="-4"/>
-      <line x1="-10" y1="-10" x2="-10" y2="-2"/>
-      <line x1="2" y1="-10" x2="2" y2="-4"/>
-      <line x1="14" y1="-10" x2="14" y2="-2"/>
-      <line x1="26" y1="-10" x2="26" y2="-4"/>
+    <!-- Regla con marcas -->
+    <g transform="translate(330 90) rotate(12)">
+      <rect x="-46" y="-9" width="92" height="18" rx="4"/>
+      <path d="M-36 -9 v6 M-24 -9 v4 M-12 -9 v6 M0 -9 v4 M12 -9 v6 M24 -9 v4 M36 -9 v6"/>
     </g>
 
-    <!-- Tijeras -->
-    <g transform="translate(120 250) rotate(30)">
-      <circle cx="-16" cy="-12" r="8"/>
-      <circle cx="-16" cy="12" r="8"/>
-      <path d="M-9 -7 L26 10 M-9 7 L26 -10"/>
-      <path d="M26 10 l8 4 M26 -10 l8 -4"/>
+    <!-- Tijeras elegantes -->
+    <g transform="translate(130 260) rotate(28)">
+      <circle cx="-18" cy="-13" r="9"/>
+      <circle cx="-18" cy="13" r="9"/>
+      <path d="M-10 -8 C0 -4 12 0 30 8 M-10 8 C0 4 12 0 30 -8"/>
+      <circle cx="-2" cy="0" r="1.4" fill="#1b2f45" stroke="none"/>
     </g>
 
     <!-- Libro abierto -->
-    <g transform="translate(330 260) rotate(-10)">
-      <path d="M0 -16 C-12 -22 -26 -22 -36 -16 L-36 14 C-26 8 -12 8 0 14 C12 8 26 8 36 14 L36 -16 C26 -22 12 -22 0 -16 Z"/>
-      <line x1="0" y1="-16" x2="0" y2="14"/>
-      <path d="M-28 -8 C-20 -11 -12 -11 -6 -8 M6 -8 C12 -11 20 -11 28 -8"/>
+    <g transform="translate(350 270) rotate(-8)">
+      <path d="M0 -15 C-13 -21 -27 -21 -38 -15 L-38 15 C-27 9 -13 9 0 15 C13 9 27 9 38 15 L38 -15 C27 -21 13 -21 0 -15 Z"/>
+      <line x1="0" y1="-15" x2="0" y2="15"/>
+      <path d="M-30 -7 C-21 -10 -13 -10 -7 -7 M7 -7 C13 -10 21 -10 30 -7"/>
+      <path d="M-30 1 C-21 -2 -13 -2 -7 1 M7 1 C13 -2 21 -2 30 1"/>
     </g>
 
     <!-- Calculadora -->
-    <g transform="translate(430 70) rotate(-16)">
-      <rect x="-20" y="-28" width="40" height="56" rx="4"/>
-      <rect x="-14" y="-22" width="28" height="12" rx="2"/>
-      <circle cx="-9" cy="0" r="1.6" fill="#1b2f45"/>
-      <circle cx="0" cy="0" r="1.6" fill="#1b2f45"/>
-      <circle cx="9" cy="0" r="1.6" fill="#1b2f45"/>
-      <circle cx="-9" cy="10" r="1.6" fill="#1b2f45"/>
-      <circle cx="0" cy="10" r="1.6" fill="#1b2f45"/>
-      <circle cx="9" cy="10" r="1.6" fill="#1b2f45"/>
-      <line x1="-14" y1="20" x2="14" y2="20"/>
+    <g transform="translate(470 80) rotate(-14)">
+      <rect x="-19" y="-27" width="38" height="54" rx="6"/>
+      <rect x="-12" y="-20" width="24" height="11" rx="2.5"/>
+      <circle cx="-8" cy="-1" r="1.7" fill="#1b2f45" stroke="none"/>
+      <circle cx="0" cy="-1" r="1.7" fill="#1b2f45" stroke="none"/>
+      <circle cx="8" cy="-1" r="1.7" fill="#1b2f45" stroke="none"/>
+      <circle cx="-8" cy="8" r="1.7" fill="#1b2f45" stroke="none"/>
+      <circle cx="0" cy="8" r="1.7" fill="#1b2f45" stroke="none"/>
+      <circle cx="8" cy="8" r="1.7" fill="#1b2f45" stroke="none"/>
+      <line x1="-12" y1="17" x2="12" y2="17"/>
     </g>
 
-    <!-- Manzana -->
-    <g transform="translate(80 420) rotate(8)">
-      <path d="M0 -10 C-16 -18 -26 -6 -24 8 C-22 22 -10 28 0 26 C10 28 22 22 24 8 C26 -6 16 -18 0 -10 Z"/>
-      <path d="M0 -10 C0 -16 2 -20 6 -24"/>
-      <path d="M6 -24 C10 -28 16 -28 18 -24 C16 -20 10 -20 6 -24 Z"/>
+    <!-- Manzana con hoja -->
+    <g transform="translate(90 440) rotate(6)">
+      <path d="M0 -9 C-3 -12 -8 -14 -13 -12 C-22 -8 -24 4 -20 13 C-16 22 -7 27 0 25 C7 27 16 22 20 13 C24 4 22 -8 13 -12 C8 -14 3 -12 0 -9 Z"/>
+      <path d="M0 -9 C0 -15 2 -19 6 -23"/>
+      <path d="M6 -23 C11 -26 16 -24 17 -20 C14 -17 9 -19 6 -23 Z"/>
     </g>
 
     <!-- Clip -->
-    <g transform="translate(300 420) rotate(40)">
-      <path d="M-8 14 L-8 -10 a8 8 0 0 1 16 0 L8 18 a12 12 0 0 1 -24 0 L-16 -4"/>
+    <g transform="translate(315 445) rotate(38)">
+      <path d="M-7 12 L-7 -9 a7 7 0 0 1 14 0 L7 15 a10.5 10.5 0 0 1 -21 0 L-14 -3"/>
     </g>
 
     <!-- Mochila -->
-    <g transform="translate(455 430) rotate(-14)">
-      <path d="M-18 -6 a18 18 0 0 1 36 0 L18 22 a6 6 0 0 1 -6 6 L-12 28 a6 6 0 0 1 -6 -6 Z"/>
-      <rect x="-10" y="6" width="20" height="14" rx="4"/>
-      <path d="M-6 -14 a6 6 0 0 1 12 0"/>
+    <g transform="translate(480 445) rotate(-12)">
+      <path d="M-17 -4 a17 17 0 0 1 34 0 L17 20 a7 7 0 0 1 -7 7 h-20 a7 7 0 0 1 -7 -7 Z"/>
+      <rect x="-9" y="5" width="18" height="13" rx="5"/>
+      <path d="M-5 -13 a5 5 0 0 1 10 0"/>
+      <path d="M-17 8 h-4 M17 8 h4"/>
     </g>
 
-    <!-- Escuadra (triángulo) -->
-    <g transform="translate(195 130) rotate(52)">
-      <path d="M-18 14 L18 14 L-18 -14 Z"/>
-      <path d="M-11 8 L4 8 L-11 -6 Z"/>
+    <!-- Escuadra -->
+    <g transform="translate(215 140) rotate(50)">
+      <path d="M-19 15 L19 15 L-19 -15 Z"/>
+      <path d="M-11 8 L5 8 L-11 -7 Z"/>
+    </g>
+
+    <!-- Boli -->
+    <g transform="translate(510 250) rotate(66)">
+      <rect x="-26" y="-4" width="40" height="8" rx="4"/>
+      <path d="M14 -4 L26 0 L14 4 Z"/>
+      <path d="M-26 -4 l-6 -3 v14 l6 -3"/>
+    </g>
+
+    <!-- Compás -->
+    <g transform="translate(240 380) rotate(-18)">
+      <circle cx="0" cy="-16" r="4"/>
+      <path d="M0 -12 L-14 22 M0 -12 L14 22"/>
+      <path d="M-14 22 l-2 4 M14 22 l2 4"/>
+      <path d="M-7 4 h14"/>
     </g>
 
   </g>
