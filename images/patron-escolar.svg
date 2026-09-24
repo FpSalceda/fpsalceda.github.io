@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+  <g fill="none" stroke="#1b2f45" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- Lápiz -->
+    <g transform="translate(60 60) rotate(-24)">
+      <rect x="-34" y="-6" width="52" height="12" rx="2"/>
+      <path d="M18 -6 L34 0 L18 6 Z"/>
+      <path d="M-34 -6 h-8 v12 h8"/>
+      <line x1="-8" y1="-6" x2="-8" y2="6"/>
+      <line x1="22" y1="-2.5" x2="30" y2="0" stroke-width="2"/>
+    </g>
+
+    <!-- Regla -->
+    <g transform="translate(300 96) rotate(14)">
+      <rect x="-44" y="-10" width="88" height="20" rx="3"/>
+      <line x1="-34" y1="-10" x2="-34" y2="-2"/>
+      <line x1="-22" y1="-10" x2="-22" y2="-4"/>
+      <line x1="-10" y1="-10" x2="-10" y2="-2"/>
+      <line x1="2" y1="-10" x2="2" y2="-4"/>
+      <line x1="14" y1="-10" x2="14" y2="-2"/>
+      <line x1="26" y1="-10" x2="26" y2="-4"/>
+    </g>
+
+    <!-- Tijeras -->
+    <g transform="translate(120 250) rotate(30)">
+      <circle cx="-16" cy="-12" r="8"/>
+      <circle cx="-16" cy="12" r="8"/>
+      <path d="M-9 -7 L26 10 M-9 7 L26 -10"/>
+      <path d="M26 10 l8 4 M26 -10 l8 -4"/>
+    </g>
+
+    <!-- Libro abierto -->
+    <g transform="translate(330 260) rotate(-10)">
+      <path d="M0 -16 C-12 -22 -26 -22 -36 -16 L-36 14 C-26 8 -12 8 0 14 C12 8 26 8 36 14 L36 -16 C26 -22 12 -22 0 -16 Z"/>
+      <line x1="0" y1="-16" x2="0" y2="14"/>
+      <path d="M-28 -8 C-20 -11 -12 -11 -6 -8 M6 -8 C12 -11 20 -11 28 -8"/>
+    </g>
+
+    <!-- Calculadora -->
+    <g transform="translate(430 70) rotate(-16)">
+      <rect x="-20" y="-28" width="40" height="56" rx="4"/>
+      <rect x="-14" y="-22" width="28" height="12" rx="2"/>
+      <circle cx="-9" cy="0" r="1.6" fill="#1b2f45"/>
+      <circle cx="0" cy="0" r="1.6" fill="#1b2f45"/>
+      <circle cx="9" cy="0" r="1.6" fill="#1b2f45"/>
+      <circle cx="-9" cy="10" r="1.6" fill="#1b2f45"/>
+      <circle cx="0" cy="10" r="1.6" fill="#1b2f45"/>
+      <circle cx="9" cy="10" r="1.6" fill="#1b2f45"/>
+      <line x1="-14" y1="20" x2="14" y2="20"/>
+    </g>
+
+    <!-- Manzana -->
+    <g transform="translate(80 420) rotate(8)">
+      <path d="M0 -10 C-16 -18 -26 -6 -24 8 C-22 22 -10 28 0 26 C10 28 22 22 24 8 C26 -6 16 -18 0 -10 Z"/>
+      <path d="M0 -10 C0 -16 2 -20 6 -24"/>
+      <path d="M6 -24 C10 -28 16 -28 18 -24 C16 -20 10 -20 6 -24 Z"/>
+    </g>
+
+    <!-- Clip -->
+    <g transform="translate(300 420) rotate(40)">
+      <path d="M-8 14 L-8 -10 a8 8 0 0 1 16 0 L8 18 a12 12 0 0 1 -24 0 L-16 -4"/>
+    </g>
+
+    <!-- Mochila -->
+    <g transform="translate(455 430) rotate(-14)">
+      <path d="M-18 -6 a18 18 0 0 1 36 0 L18 22 a6 6 0 0 1 -6 6 L-12 28 a6 6 0 0 1 -6 -6 Z"/>
+      <rect x="-10" y="6" width="20" height="14" rx="4"/>
+      <path d="M-6 -14 a6 6 0 0 1 12 0"/>
+    </g>
+
+    <!-- Escuadra (triángulo) -->
+    <g transform="translate(195 130) rotate(52)">
+      <path d="M-18 14 L18 14 L-18 -14 Z"/>
+      <path d="M-11 8 L4 8 L-11 -6 Z"/>
+    </g>
+
+  </g>
+</svg>
